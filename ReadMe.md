@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante | Ciência da Computação | 22 Anos<br>Desenvolvedor Full Stack Blend | Java | JavaScript | PHP | Python<br>Buscando vaga de Júnior ou Estágio
+Estudante | Ciência da Computação | 24 Anos<br>Desenvolvedor Full Stack Blend | Java | JavaScript | PHP | Python<br>Buscando vaga de Júnior ou Estágio
 
 
 ## 🌐 Contato:
