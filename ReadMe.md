@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante | Ciência da Computação | 24 Anos<br>Desenvolvedor Full Stack Blend | Java | JavaScript | PHP | Python
+Estudante | Ciência da Computação | 24 Anos<br>Developer Web Full Stack Blend | Java Spring Boot | Angular | Javascript | React
 
 
 ## 🌐 Contato:
