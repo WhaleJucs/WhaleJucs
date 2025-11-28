@@ -43,10 +43,6 @@
 
 <br/>
 
-<a href="https://github.com/WhaleJucs" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhaleJucs&theme=dracula&show_icons=true" />
-</a>
-
 [![WhaleJucs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleJucs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
