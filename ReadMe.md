@@ -38,11 +38,13 @@
 <br/>
 
 <a href="https://github.com/WhaleJucs" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhaleJucs&theme=dracula&show_icons=true" />
 </a>
+
+[![WhaleJucs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleJucs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-joao-pedro-r-177628184-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
-[![Gmail Badge](https://img.shields.io/badge/-joao000059@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao000059@gmail.com)](mailto:joao000059@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WhaleJucs)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao000059@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/WhaleJucs?label=follow&style=social)](https://github.com/WhaleJucs)
