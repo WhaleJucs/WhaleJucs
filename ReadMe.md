@@ -1,24 +1,48 @@
-# 💫 Sobre mim:
-Estudante | Ciência da Computação | 24 Anos<br>Desenvolvedor Web Full Stack Blend | Java Spring Boot | Angular | Javascript | React
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
+## Sobre mim
 
-## 🌐 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-r-177628184) 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {Ciência da Computação}.
+- 💼 Trabalho como {Desenvolvedor Full Stack}.
+- 🌱 Aprendendo mais sobre {react e node.js}.
 
-# 💻 Habilidades:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WhaleJucs&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WhaleJucs&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleJucs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Minhas Skills
 
-### 🔝 Top Contribuições Repositório
-![](https://github-contributor-stats.vercel.app/api?username=WhaleJucs&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+**Aplicações e dados**
 
----
-[![](https://visitcount.itsvg.in/api?id=WhaleJucs&icon=1&color=12)](https://visitcount.itsvg.in)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-  ## 💰 Você pode me ajudar doando
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joao000059@gmail.com) 
-    
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:joao000059@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WhaleJucs)
