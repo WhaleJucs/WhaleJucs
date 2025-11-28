@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=WhaleJucs&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Ciência da Computação}.
-- 💼 Trabalho como {Desenvolvedor Full Stack}.
-- 🌱 Aprendendo mais sobre {react e node.js}.
+- 🎓 Estudando Ciência da Computação.
+- 💼 Trabalho como Desenvolvedor Full Stack.
+- 🌱 Aprendendo mais sobre react e node.js.
 
 ## Minhas Skills
 
@@ -37,12 +37,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil">
+<a href="https://github.com/WhaleJucs" title="Perfil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao000059@gmail.com)](mailto:joao000059@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-joao-pedro-r-177628184-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
+[![Gmail Badge](https://img.shields.io/badge/-joao000059@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao000059@gmail.com)](mailto:joao000059@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WhaleJucs)
