@@ -43,8 +43,6 @@
 
 <br/>
 
-[![WhaleJucs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleJucs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-r-177628184/)](https://www.linkedin.com/in/joao-pedro-r-177628184/)
